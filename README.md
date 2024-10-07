@@ -1,4 +1,4 @@
-# Monkey Jam Privacy Policy
+# I Monkey Jam Privacy Policy
 Privacy Policy
 
 Introduction

@@ -1,6 +1,4 @@
 # I Monkey Jam Privacy Policy
-Privacy Policy
-
 # Introduction
 The "I Monkey Jam" app respects your privacy and is committed to protecting it. This app does not collect, store, or share any personal information.
 

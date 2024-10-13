@@ -1,9 +1,9 @@
-# I Monkey Jam Privacy Policy
+# I Monkey Jam, Tic-Tac-Toe T3 classic Privaxy Policy
 # Introduction
-The "I Monkey Jam" app respects your privacy and is committed to protecting it. This app does not collect, store, or share any personal information.
+The "I Monkey Jam", "Tic-Tac-Toe T3 classic" apps respects your privacy and is committed to protecting it. This apps don not collect, store, or share any personal information.
 
 # Data Collection
-The "I Monkey Jam" app does not collect any personal data, game statistics, or usage data. No information is gathered, stored, or transmitted from users' devices. Additionally, the app does not use any third-party analytics or tracking services.
+The "I Monkey Jam", "Tic-Tac-Toe T3 classic" apps don not collect any personal data, game statistics, or usage data. No information is gathered, stored, or transmitted from users' devices. Additionally, the apps don't not use any third-party analytics or tracking services.
 
 # Data Sharing
 Since no data is collected, there is no data to share with any third parties.

@@ -1,10 +1,10 @@
-# I Monkey Jam, Tic-Tac-Toe 3T classic Privacy Policy
+# I Monkey Jam, Tic-Tac-Toe 3T classic and Air Ghost Privacy Policy
 
 # Introduction
-The "I Monkey Jam" and "Tic-Tac-Toe 3T classic" apps respect your privacy and are committed to protecting it. These apps do not collect, store, or share any personal information.
+The "I Monkey Jam", "Tic-Tac-Toe 3T classic" and "Air Ghost" apps respect your privacy and are committed to protecting it. These apps do not collect, store, or share any personal information.
 
 # Data Collection
-The "I Monkey Jam" and "Tic-Tac-Toe 3T classic" apps do not collect any personal data, game statistics, or usage data. No information is gathered, stored, or transmitted from users' devices. Additionally, the apps do not use any third-party analytics or tracking services.
+The "I Monkey Jam", "Tic-Tac-Toe 3T classic" and "Air Ghost" apps do not collect any personal data, game statistics, or usage data. No information is gathered, stored, or transmitted from users' devices. Additionally, the apps do not use any third-party analytics or tracking services.
 
 # Data Sharing
 Since no data is collected, there is no data to share with any third parties.
